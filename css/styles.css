@@ -1,0 +1,81 @@
+
+.top-container{
+  background-color: #E4F9F5;
+  padding: 100px;
+  position: relative;
+}
+p{
+  font-family: 'Prata', serif;
+
+}
+h1{
+  font-size: 5.625rem;
+  margin: 10px auto 0 auto;
+  font-family: 'Ruge Boogie', cursive;
+  color: #66BFBF;
+}
+h2{
+  font-size: 1.5rem;
+  font-family: 'Prata', serif;
+  color: #66BFBF;
+}
+h3{
+  color: #11999E;
+}
+p{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-size: 100%;
+}
+.a{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+.b{
+  position: absolute;
+  left: 400px;
+  top: 220px;
+}
+.d{
+  position: absolute;
+  left: 1150px;
+  top: 330px;
+}
+.e{
+  position: absolute;
+  height: 20%;
+  left: 200px;
+  top: 300px;
+}
+span{
+  text-decoration: underline;
+  font-weight: normal;
+}
+.mypic{
+  height: 200px;
+  width: 200px;
+  margin-top: 40px;
+}
+
+.middle-container{
+  background-color: #E4F9F5;
+}
+.skills{
+  padding: 2%;
+}
+.profile{
+  padding: 1%;
+}
+.icon{
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
